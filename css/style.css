@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    display: block;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    display: block;
+    color: rgb(104, 16, 16);
+}
+.color{
+text-align: justify;
+background-color: rgb(214, 214, 179);
+}
+h5{
+    text-align: justify;
+    
+}
